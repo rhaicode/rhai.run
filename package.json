@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://cass.run",
+  "baseUrl": "https://rhai.run",
   "private": true,
   "scripts": {
     "shorten": "netlify-shortener"
